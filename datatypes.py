@@ -39,3 +39,21 @@ print(len(text))
 print(text.upper)
 print(pow(num,2))
 print(num.bit_length())
+
+-------------------------------------------------------
+output:
+10
+2.21
+hello
+hi
+True
+False
+None
+
+
+<class 'int'>
+<class 'str'>
+2
+<built-in method upper of str object at 0x00007FFF30C7B3B8>
+100
+4
