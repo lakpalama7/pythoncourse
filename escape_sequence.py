@@ -11,3 +11,10 @@ print("hello \t world")
 print("hello \\world\\ ")
 
 
+output:
+Hello "world"
+hello 'world'
+hello 
+ world
+hello    world
+hello \world\ 
