@@ -83,3 +83,48 @@ print(y.is_integer()) #it not a whole number 1 after decimal ....its float numbe
 print("==="*10)
 print(isinstance(y,int)) # 3.1 is float so false
 print(isinstance(y,float)) # 3.1 is float so true
+
+OUTPUT:
+---------------------------------------------
+<class 'int'>
+<class 'float'>
+<class 'complex'>
+<class 'str'>
+202020
+<class 'int'>
+40
+2
+10.0
+(10+3j)
+------------------------------
+6
+3
+6
+4.5
+4
+1
+8
+------------------------------
+5
+10
+--------------------
+-8
+8
+23
+23.23
+24
+23.57
+------------------------------
+23
+24
+23
+23
+------------------------------
+0.464842539393324
+7
+------------------------------
+True
+False
+==============================
+False
+True
