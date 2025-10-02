@@ -147,3 +147,55 @@ print(phone.isnumeric())
 
 phone="135.62"
 print(phone.isnumeric())
+
+
+OUTPUT:
+---------------------------------------------------
+class 'str'>
+<class 'int'>
+Your age is 25
+6
+4
+1235.56
+2025-10-26
+1234.34
+491761234567
+davi hillary
+C:/Users/ram/report.csv
+My name is ram I am 30years old, my student status isFalse.
+My name is ram. I am 30 years old. My student status is False .
+2+3 is 5
+{This is me}
+['2025-10-25', '10:25']
+['adam', '23', 'finland', 'M', '1989', '012']
+ha ha ha
+--------------------------------------------------
+**************************************************
+P
+n
+P
+Pto
+hello world
+ hello world
+hello world
+abc
+abc###
+###abc
+python programming
+PYTHON PROGRAMMING
+True
+name: Maria | role: data engineer | age: 27
+search search search search search
+True
+True
+3
+True
+name : ram
+125-2356
+145-2365
+145-8969
+validation validation validation validation validation
+True
+False
+True
+False
