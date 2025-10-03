@@ -16,3 +16,19 @@ print(3>2<3)
 
 age=20
 print(18 <= age <=30)
+
+OUTPUT
+----------------------------------
+True
+True
+False
+False
+--------------------
+True
+False
+True
+----------
+True
+False
+True
+True
