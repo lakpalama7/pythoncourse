@@ -12,3 +12,18 @@ print("--" *10)
 print(bool(0))
 print(bool(""))
 print(bool(None))
+
+OUTPUT
+----------------
+True
+False
+<class 'bool'>
+True
+False
+True
+True
+False
+--------------------
+False
+False
+False
