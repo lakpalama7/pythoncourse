@@ -24,3 +24,17 @@ print("="*10)
 print("Hello".endswith("o"))
 print("Hello".startswith("H"))
 print("Hello".startswith("h"))
+
+OUTPUT
+------------------------------
+True
+True
+--------------------
+True
+True
+True
+True
+==========
+True
+True
+False
