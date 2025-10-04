@@ -71,3 +71,89 @@ print("--"*10)
 
 for i in range(7):
      print("*" * i)
+
+OUTPUT:
+-------------------------------
+Round:  1
+Round:  2
+Round:  3
+Round:  4
+Round:  5
+----------
+Round :1
+Round :2
+Round :3
+Round :4
+Round :5
+--------------------
+Item : a
+Item : b
+Item : c
+Item : d
+----------
+Rounded : 1
+Rounded : 2
+Rounded : 3
+Rounded : 4
+Rounded : 5
+--------------------
+items :u
+items :n
+items :i
+items :t
+items :e
+items :d
+items :
+items :s
+items :t
+items :a
+items :t
+items :e
+--------------------
+range: 0
+range: 1
+range: 2
+range: 3
+range: 4
+--------------------
+item : 1
+item : 2
+item : 3
+item : 4
+------------------------------
+item : 1
+item : 3
+item : 5
+item : 7
+item : 9
+--------------------
+Current total is : 1
+Current total is : 3
+Current total is : 6
+Current total is : 10
+Current total is : 15
+total score : 15
+------------------------------
+After Cleaning : report.csv
+After Cleaning : data.csv
+After Cleaning : final.csv
+After Cleaning : file.csv
+------------------------------
+7*1 = 7
+7*2 = 14
+7*3 = 21
+7*4 = 28
+7*5 = 35
+7*6 = 42
+7*7 = 49
+7*8 = 56
+7*9 = 63
+7*10 = 70
+--------------------
+
+*
+**
+***
+****
+*****
+******
