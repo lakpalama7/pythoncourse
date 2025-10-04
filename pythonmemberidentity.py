@@ -51,3 +51,29 @@ email="ram@gmail.com"
 print(email!="")
 email=None  #no value at all and its type is unknown
 print( email is not None and email!="")
+
+OUTPUT:
+----------------------------
+True
+False
+True
+----------
+True
+True
+False
+------------------------------
+True
+--------------------
+True
+False
+True
+True
+----------
+True
+True
+True
+True
+--------------------
+False
+True
+False
