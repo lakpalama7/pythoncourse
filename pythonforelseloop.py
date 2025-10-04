@@ -89,3 +89,21 @@ for file in files:
 
 else:
     print("All files are unique !!!")
+
+OUTPUT:
+---------------------------------
+Even no found:  4
+------------------------------
+All num are odd
+--------------------
+Name is missing !!
+--------------------
+All names are available
+**********
+data.pdf is not a csv file
+**********
+All files are csv files !!!
+**********
+report.csv Duplicate files exits here !
+**********
+All files are unique !!!
