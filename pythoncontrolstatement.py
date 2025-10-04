@@ -58,3 +58,32 @@ for email in emails:
         print(f"SQL injection Hackar Attack Alert !!!")
         break
     print(f"Emails : {email}")
+
+OUTPUT:
+-------------------------
+Name: ram
+Name: hari
+Name is empty is detected !
+------------------------------
+Name: ram
+Name: hari
+Name: rita
+------------------------------
+Name: ram
+Name: hari
+Name: 
+Name: rita
+------------------------------
+Name: ram
+Name: hari
+Name: unknown
+Name: rita
+------------------------------
+Working day : mon
+Working day : tue
+Working day : fri
+------------------------------
+Emails : ram@gmail.com
+Emails : npl@gmail.com
+Emails : fin@outlook.com
+SQL injection Hackar Attack Alert !!!
