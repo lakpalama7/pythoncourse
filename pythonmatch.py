@@ -12,3 +12,7 @@ match country:
         print("NPL")
     case _:
         print("Unkown country")
+
+
+OUTPUT:
+US
