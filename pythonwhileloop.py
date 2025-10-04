@@ -31,3 +31,15 @@ else:
 #     if i>10:
 #         break
 # print("done")
+
+OUTPUT:
+------------------------
+1
+2
+3
+--------------------
+------------------------------
+Do you agree yes/no :no
+Do you agree yes/no :no
+Do you agree yes/no :may be
+3 Strikes you are out !!!
