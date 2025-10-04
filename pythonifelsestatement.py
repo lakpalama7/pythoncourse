@@ -69,6 +69,11 @@ if not(email[0].isalnum() and  email[-1].isalnum()):
 if check:
     print("Email is valid")
 
+OUTPUT:
+--------------
+A+
+Email is valid
+
    
 
 
