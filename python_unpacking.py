@@ -48,3 +48,30 @@ print(first)
 print(last)
 
 # _ single underscore avoids one value only ....*_ avoids multiple value in sequence
+
+OUTPUT:
+-------------
+maria
+29
+data science
+spain
+--------------------
+maria
+[29, 'data science']
+spain
+------------------------------
+maria
+[29, 'data science', 'spain']
+------------------------------
+H
+l
+--------------------
+maria
+data science
+--------------------
+1
+[2, 3, 4, 5, 6]
+7
+--------------------
+1
+7
